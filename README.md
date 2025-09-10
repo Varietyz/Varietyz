@@ -2,14 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Development;AI+Research;System+Architecture" alt="Typing SVG" />
 </div>
 
-----
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varietyz&theme=tokyonight" />
-</div>
-
 ---
-
 
 ## 🧑‍💻 About Me
 
@@ -60,6 +53,12 @@ Open to job opportunities, feedback, collaboration & discussions
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varietyz&theme=tokyonight" />
 </div>
 
 ---
