@@ -1,0 +1,15 @@
+name: Auto-Update README
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Auto-Update README
+        run: |
+          # Custom script to update dynamic sections
+          echo "Last updated: $(date)" >> README.md
