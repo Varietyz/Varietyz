@@ -17,7 +17,7 @@ I build systems that work predictably in production, not demonstrations of archi
 I primarily focus on effective ways to collaborate with AI:
 [Disciplined AI Software Development Methodology](https://github.com/Varietyz/Disciplined-AI-Software-Development)
 
-Open to job opportunities, feedback, collaboration & discussions
+*Working for [Beasr](https://beasr.world/)*
 
 </td>
 <td width="50%">
