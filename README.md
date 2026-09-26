@@ -2,9 +2,9 @@
 
 <a href="https://banes-lab.com"><img src="https://banes-lab.com/assets/animated_badge_logo.webp" alt="Bane's Lab" width="96" height="96" /></a>
 
-# Jay Baleine
+# Bane's Lab
 
-**Systems architect, technical lead and R&D · Ostend, Belgium**
+**Systems architect, technical lead and R&D · Jay Baleine - Ostend, Belgium**
 
 </div>
 
@@ -82,21 +82,15 @@ A structured format for writing instructions to LLMs, defined by a formal gramma
 
 ## Activity
 
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Varietyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varietyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-<br clear="both" />
-
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varietyz&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" src="assets/stats.svg" alt="GitHub activity: contributions, commits, pull requests, stars, repositories, followers, languages and weekly contributions" />
 </div>
 
 ## Contact
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/banes--lab.com-222222?style=for-the-badge&logo=nginx&logoColor=white)](https://banes-lab.com)
+[![Website](https://img.shields.io/badge/banes--lab.com-1f1f1f?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAADAFBMVEVMaXECCR0VGB02ODsTFhsQEhQvMTQACReFe4QaGhoABTcyNTkHCxEOHEQeICUoJB4%2BQEQ6PUJuYUooKSwrLC%2BDdVk5Oz9wXjqJdlE1LySLeFVANiKMeFJRX3ismndcbJi5qIsdHBw3MCNiUTC7s6VbVUlVRy2XiGsHESNtZV6nk25mVTREPzSahFyqlWrLs4YnMUSGcUt3a1Q9NSXYy7NoZVqOelTXv5OStv%2Fp1KvawpidiWWZimtjXEp%2Fa0ZRRCx9bU2kjmCslGmcps0qKypqWT1pW0JGPCtLPihwYUJlWUermHOijmimsM2Hd1yJd1zS0s7t3sHd1s7x4MHex5zex5sAACNDOCSGbD4rKyo2NjYwMDBDQ0NFRUU%2FPz9HR0YyMTFBQUI0NDRnXU4lJSWBa0EuKiOBZjE4ODkiIiGysKytiDy6kz1DUls9PDs2Lh%2F%2F%2F%2F9eqtZgV0ZqWDdnuup3alO%2FlkE7OzvGnEg%2FOjV8aUUsLS4oJySnpJ89PkKCbUU7OjmffjlyWy3OoktpYVBDPjRgrNmKhnxmuOezsaxCc5COeVFuXTtMRThiUjQhHhmIbDO2kT5LdY15cGFIPCS%2FvLZisN6Qi4E5PD%2BLckOimotHboWuqaB2Yz9USztGREEkJiqvjUqUgmHEm0NHQDQ5NS42NC2yjDvRpE95YjI%2FREiRcTPi4N%2B3tKy0jUNiTyqvpZSDe240Q0xco80bFw9uY1RAWWgxKBxpv%2FBDdZNktOO0rqSggkenjV1YUEBfUzxwYkiBb06mgzxoXks4NjOCdVzbrlXjtFn0wF2KdE1QS0PpuV1oW0Lu7Oo%2FSU9cTS2Tj4gyLyvBuar3xGH4%2BPeZlIpQQynIx8SIgXS3kUVURy%2B9vb5KgqM7MiPm4NSZgVT%2F%2FfeFbkKpqqs8Z4Dm5%2BlRiapgWlDRz8zX1tNSkrk5XnOAbkqymWmXeTYqMDz9ymSmiVInKCj%2F2Gz07%2BbAp3bY0safm5aYjHfPx7huamK4n29xXjampaRXm8Pj4NtNhadZWiL9AAAAWXRSTlMAG%2Fz9%2Fv3%2BAQL%2BC%2F78GPv%2B%2FvyD%2Fvu0%2Fdnc%2FrP%2B4CTWF7f9cOhvb7WDJEay1UbS4u0a7IL%2BgkTR3wq05dPTceiD5%2BTTGvvVt4L%2Bt2%2FQ4BqEhEWERYTV1Af9948sEJsAAAAJcEhZcwAAA%2BgAAAPoAbV7UmsAAAPJSURBVDiNXVNlUFtZGP0SSN5L8KIFKtTdfd3ddzuT5OW9EOIhLiRE0EBwgmspVtwdWtptqcuWulFv2bZrXd%2F9tfPSdrez5%2F6595xz59755hwANxAUYMvnX2z9atu2L7d%2B9ukWABSB54HCRxs2%2F300t0ilKtLd%2BHXzhjcARZ%2BX0QWrb0T0%2B%2Fn5iUQihjft3T2rF6DwrwOFOXP3RHjT%2FuioGhurGusWedK8i76bO%2BeZA4VZsxMYVGnegO12abrtdo81SiqlRmXNnvXEgYDPC9lUgVWws%2F9S1VB%2Fui1PKhAIrAJq%2FIs%2BgJA6Elzta2GxWJa8dJkoqrTKynLD4vsoGAEEUHgpIYjD4fA4%2FLzTxZPS0x0i94nD4%2FCOLiQfobycQ2eT4E9elE0%2BTm8%2FZklkuxn6%2BKsUAJgR76WMi4uLw1ml5wo5%2FGMnO3Z5TexNlCjjlB5fzwBgho2H4DiOR%2FNjzhU3KhSs8%2BpLF2pTditxHA%2FRhjFhaVY05l6O326mSgYVyobrJxOamw%2FtxjEMq6lbCouzAgiMixETFeruRMKMK3oPqs%2B0HT9ca%2BdyiYC6xbDMEEAQBFGWevN6jrm18lRBwcQZdZ3p%2BLg%2FQRABB5fB6wfIHWH%2BU20YLKjUtJ5SJO74pb38cA3J%2Bhs%2BgFVafy5GsHvUFb2jen1fgaJV0Vuorric9YOdy7WnroLXtHYMi3ZMT5sfOO9VapwlfRqNV%2Fddw6Gf9tVg9pgPYaU2JBpjp94deKjvKxuqHE0rSXNea2hPN%2F38o7YsJHUlhO%2FzwKN5f32b82BUM1h2r0Sj0aRp2MXnO88eOeHhYQh2DxLn3Z%2B%2Bf2dY7ywZ1uv1zuFrjos9nWeP7PUgR7kiPlEiYZtlNsfDkcyRzMzMzJE7E6VXT5hqhWaJMn4FMENz6GwJ60CxzRDzFAMVVwuThDstfPqOUCbAK7ogHo8v0P4uy5DJMjIyMmQyW2G%2BsZHO5wdlvwMAlPmOQE5go1gsvHWrXCgUCsvLW9qM8l0WTmDDfAqZyHm6QJYgv94lb2pLjnW5jGJxrKspVvyY9aZuHqBk5Bbl%2BlqTYuUuo7zogjj%2Fm4gkY5M89nurb%2B4iMnKAAGV5LnVKXr8%2FOcko7upqcSUly%2Bv3z6TmLqeQOulYEqqjqpJFnozkFJMppYvhqWoRUXVvLXmik9%2FweU8405sqZQylpDSb%2FKKknt5Twrd9%2FqsWAtvfX1u9nkGj5XdeFtNojPXVaxduf3b%2FabnXrItMyL4ypVJNXcl%2BFLZuzf%2FqjaAIMDd%2BEr4pMnJT%2BMcbmW7CjX8AS3d98PjB6BUAAAAASUVORK5CYII%3D)](https://banes-lab.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jay@banes-lab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-baleine)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/406828985696387081)

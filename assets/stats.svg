@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="354" viewBox="0 0 840 354" role="img" aria-labelledby="title">
+  <title id="title">GitHub activity of Varietyz</title>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f1f1f"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.6">
+      <stop offset="0" stop-color="#cea555" stop-opacity="0.14">
+        <animate attributeName="stop-opacity" values="0.14;0.22;0.14" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      </stop>
+      <stop offset="1" stop-color="#cea555" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spark">
+      <stop offset="0" stop-color="#cea555" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#cea555" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cea555" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#cea555" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','Source Code Pro',ui-monospace,SFMono-Regular,Consolas,monospace; }
+    .title { fill: #cea555; font-size: 17px; font-weight: 700; letter-spacing: 0.05em; }
+    .heading { fill: #cea555; font-size: 12px; font-weight: 600; letter-spacing: 0.05em; }
+    .value { fill: #ffffff; font-size: 26px; font-weight: 700; }
+    .label { fill: #888888; font-size: 12px; }
+    .legend { fill: #cccccc; font-size: 12px; }
+    .share { fill: #888888; }
+    .minor { fill: #ffffff; font-weight: 700; }
+    .stamp { fill: #888888; font-size: 10px; }
+    .rise { opacity: 0; animation: rise 0.6s cubic-bezier(0.25,0.46,0.45,0.94) forwards; }
+    .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.8s cubic-bezier(0.25,0.46,0.45,0.94) 1s forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .rise { animation: none; opacity: 1; }
+      .draw { animation: none; stroke-dashoffset: 0; }
+      .loop { display: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="353" rx="10" fill="url(#ground)" stroke="rgba(206,165,85,0.35)"/>
+  <rect x="0.5" y="0.5" width="839" height="353" rx="10" fill="url(#glow)"/>
+  <text x="32" y="44" class="title rise" style="animation-delay:0.00s">GitHub activity</text>
+  <g class="rise" style="animation-delay:0.15s">
+    <text x="32" y="104" class="value">1,549</text>
+    <text x="32" y="124" class="label">Contributions, last year</text>
+  </g>
+  <g class="rise" style="animation-delay:0.23s">
+    <text x="216" y="104" class="value">1,645</text>
+    <text x="216" y="124" class="label">Commits</text>
+  </g>
+  <g class="rise" style="animation-delay:0.31s">
+    <text x="382" y="104" class="value">35</text>
+    <text x="382" y="124" class="label">Pull requests</text>
+  </g>
+  <g class="rise" style="animation-delay:0.39s">
+    <text x="32" y="170" class="value">427</text>
+    <text x="32" y="190" class="label">Stars</text>
+  </g>
+  <g class="rise" style="animation-delay:0.47s">
+    <text x="216" y="170" class="value">67</text>
+    <text x="216" y="190" class="label">Repositories</text>
+  </g>
+  <g class="rise" style="animation-delay:0.55s">
+    <text x="382" y="170" class="value">17</text>
+    <text x="382" y="190" class="label">Followers</text>
+  </g>
+  <text x="572" y="72" class="heading rise" style="animation-delay:0.40s">Languages by code size</text>
+  <clipPath id="bar"><rect x="572" y="90" width="236" height="10" rx="2"/></clipPath>
+  <rect x="572" y="90" width="236" height="10" rx="2" fill="#171717"/>
+  <rect x="572.00" y="90" height="10" width="0" fill="#3178c6">
+    <animate attributeName="width" from="0" to="139.37" begin="0.50s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <rect x="711.37" y="90" height="10" width="0" fill="#f1e05a">
+    <animate attributeName="width" from="0" to="70.45" begin="0.62s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <rect x="781.82" y="90" height="10" width="0" fill="#663399">
+    <animate attributeName="width" from="0" to="15.55" begin="0.74s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <rect x="797.38" y="90" height="10" width="0" fill="#b07219">
+    <animate attributeName="width" from="0" to="4.36" begin="0.86s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <rect x="801.73" y="90" height="10" width="0" fill="#00ADD8">
+    <animate attributeName="width" from="0" to="4.17" begin="0.98s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <rect x="805.90" y="90" height="10" width="0" fill="#4a4f57">
+    <animate attributeName="width" from="0" to="2.10" begin="1.10s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.46 0.45 0.94" keyTimes="0;1"/>
+  </rect>
+  <g clip-path="url(#bar)" class="loop">
+    <rect x="512" y="90" width="60" height="10" fill="url(#shimmer)" opacity="0">
+      <set attributeName="opacity" to="1" begin="2.8s"/>
+      <animate attributeName="x" values="512;808;808" keyTimes="0;0.55;1" dur="4s" begin="2.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0 0 1 1"/>
+    </rect>
+  </g>
+  <g class="rise" style="animation-delay:0.60s">
+    <circle cx="577" cy="124" r="4" fill="#3178c6"/>
+    <text x="588" y="128" class="legend">TypeScript</text>
+    <text x="808" y="128" class="legend share" text-anchor="end">59.1%</text>
+  </g>
+  <g class="rise" style="animation-delay:0.68s">
+    <circle cx="577" cy="143" r="4" fill="#f1e05a"/>
+    <text x="588" y="147" class="legend">JavaScript</text>
+    <text x="808" y="147" class="legend share" text-anchor="end">29.9%</text>
+  </g>
+  <g class="rise" style="animation-delay:0.76s">
+    <circle cx="577" cy="162" r="4" fill="#663399"/>
+    <text x="588" y="166" class="legend">CSS</text>
+    <text x="808" y="166" class="legend share" text-anchor="end">6.6%</text>
+  </g>
+  <g class="rise" style="animation-delay:0.84s">
+    <circle cx="577" cy="181" r="4" fill="#b07219"/>
+    <text x="588" y="185" class="legend">Java</text>
+    <text x="808" y="185" class="legend share" text-anchor="end">1.8%</text>
+  </g>
+  <g class="rise" style="animation-delay:0.92s">
+    <circle cx="577" cy="200" r="4" fill="#00ADD8"/>
+    <text x="588" y="204" class="legend">Go</text>
+    <text x="808" y="204" class="legend share" text-anchor="end">1.8%</text>
+  </g>
+  <g class="rise" style="animation-delay:1.00s">
+    <circle cx="577" cy="219" r="4" fill="#4a4f57"/>
+    <text x="588" y="223" class="legend">Other</text>
+    <text x="808" y="223" class="legend share" text-anchor="end">0.9%</text>
+  </g>
+  <text x="32" y="258" class="legend rise" style="animation-delay:0.90s"><tspan class="heading">Contributions per week:</tspan><tspan class="share" dx="8">Peak</tspan><tspan class="minor" dx="6">215</tspan><tspan class="share">,</tspan><tspan class="share" dx="8">Average</tspan><tspan class="minor" dx="6">29</tspan></text>
+  <path d="M32.0,324.0 L46.9,324.0 L61.8,324.0 L76.8,324.0 L91.7,324.0 L106.6,323.8 L121.5,324.0 L136.5,324.0 L151.4,323.4 L166.3,323.8 L181.2,324.0 L196.2,323.0 L211.1,322.4 L226.0,323.2 L240.9,324.0 L255.8,323.2 L270.8,315.2 L285.7,316.4 L300.6,305.2 L315.5,317.9 L330.5,322.0 L345.4,314.0 L360.3,320.9 L375.2,323.4 L390.2,323.6 L405.1,313.4 L420.0,307.8 L434.9,298.8 L449.8,290.6 L464.8,322.0 L479.7,321.3 L494.6,322.2 L509.5,321.7 L524.5,323.4 L539.4,323.4 L554.3,323.6 L569.2,323.4 L584.2,322.8 L599.1,321.3 L614.0,315.2 L628.9,319.5 L643.8,323.8 L658.8,315.6 L673.7,280.0 L688.6,288.4 L703.5,301.1 L718.5,324.0 L733.4,319.3 L748.3,319.5 L763.2,319.5 L778.2,314.4 L793.1,324.0 L808.0,317.9 L808,324 L32,324 Z" fill="url(#area)" class="rise" style="animation-delay:1.40s"/>
+  <path d="M32.0,324.0 L46.9,324.0 L61.8,324.0 L76.8,324.0 L91.7,324.0 L106.6,323.8 L121.5,324.0 L136.5,324.0 L151.4,323.4 L166.3,323.8 L181.2,324.0 L196.2,323.0 L211.1,322.4 L226.0,323.2 L240.9,324.0 L255.8,323.2 L270.8,315.2 L285.7,316.4 L300.6,305.2 L315.5,317.9 L330.5,322.0 L345.4,314.0 L360.3,320.9 L375.2,323.4 L390.2,323.6 L405.1,313.4 L420.0,307.8 L434.9,298.8 L449.8,290.6 L464.8,322.0 L479.7,321.3 L494.6,322.2 L509.5,321.7 L524.5,323.4 L539.4,323.4 L554.3,323.6 L569.2,323.4 L584.2,322.8 L599.1,321.3 L614.0,315.2 L628.9,319.5 L643.8,323.8 L658.8,315.6 L673.7,280.0 L688.6,288.4 L703.5,301.1 L718.5,324.0 L733.4,319.3 L748.3,319.5 L763.2,319.5 L778.2,314.4 L793.1,324.0 L808.0,317.9" fill="none" stroke="#cea555" stroke-width="1.6" stroke-linejoin="round" pathLength="1" class="draw"/>
+  <g class="loop" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="7s" begin="2.8s" repeatCount="indefinite"/>
+    <circle r="7" fill="url(#spark)"/>
+    <circle r="2.4" fill="#fff4dc"/>
+    <animateMotion path="M32.0,324.0 L46.9,324.0 L61.8,324.0 L76.8,324.0 L91.7,324.0 L106.6,323.8 L121.5,324.0 L136.5,324.0 L151.4,323.4 L166.3,323.8 L181.2,324.0 L196.2,323.0 L211.1,322.4 L226.0,323.2 L240.9,324.0 L255.8,323.2 L270.8,315.2 L285.7,316.4 L300.6,305.2 L315.5,317.9 L330.5,322.0 L345.4,314.0 L360.3,320.9 L375.2,323.4 L390.2,323.6 L405.1,313.4 L420.0,307.8 L434.9,298.8 L449.8,290.6 L464.8,322.0 L479.7,321.3 L494.6,322.2 L509.5,321.7 L524.5,323.4 L539.4,323.4 L554.3,323.6 L569.2,323.4 L584.2,322.8 L599.1,321.3 L614.0,315.2 L628.9,319.5 L643.8,323.8 L658.8,315.6 L673.7,280.0 L688.6,288.4 L703.5,301.1 L718.5,324.0 L733.4,319.3 L748.3,319.5 L763.2,319.5 L778.2,314.4 L793.1,324.0 L808.0,317.9" dur="7s" begin="2.8s" repeatCount="indefinite" calcMode="spline" keyPoints="0;1" keyTimes="0;1" keySplines="0.45 0 0.55 1"/>
+  </g>
+  <text x="808" y="44" text-anchor="end" class="stamp rise" style="animation-delay:0.20s">Updated 2026-09-26</text>
+</svg>

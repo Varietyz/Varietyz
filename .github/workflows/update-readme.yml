@@ -1,15 +1,28 @@
-name: Auto-Update README
+name: Update stats card
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update:
+  stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Auto-Update README
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Render the stats card
+        run: node scripts/stats.mjs assets/stats.svg
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+      - name: Commit the card when it changed
         run: |
-          # Custom script to update dynamic sections
-          echo "Last updated: $(date)" >> README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --cached --quiet || git commit -m "Update stats card"
+          git push
