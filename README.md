@@ -44,14 +44,12 @@ A structured format for writing instructions to LLMs, defined by a formal gramma
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+[![Methodology](https://img.shields.io/badge/Methodology-cea555?style=for-the-badge)](https://banes-lab.com/disciplined-methodology)
+[![PAG](https://img.shields.io/badge/PAG-cea555?style=for-the-badge)](https://banes-lab.com/pag)
+[![Architecture](https://img.shields.io/badge/Architecture-cea555?style=for-the-badge)](https://banes-lab.com/software-architecture)
+[![Ontology](https://img.shields.io/badge/Ontology-cea555?style=for-the-badge)](https://banes-lab.com/ontology)
+[![Anatomy](https://img.shields.io/badge/Anatomy-cea555?style=for-the-badge)](https://banes-lab.com/anatomy)
+[![FAQ](https://img.shields.io/badge/FAQ-cea555?style=for-the-badge)](https://banes-lab.com/faq)
 
 </div>
 
