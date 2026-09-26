@@ -1,36 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=System+Architecture;AI+Research;Context-Engineering;Agent+Orchestration;Communication+Techniques" alt="Typing SVG" />
+
+<a href="https://banes-lab.com"><img src="https://banes-lab.com/assets/animated_badge_logo.webp" alt="Bane's Lab" width="96" height="96" /></a>
+
+# Jay Baleine
+
+**Systems architect, technical lead and R&D · Ostend, Belgium**
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+I design and govern software systems: greenfield builds, legacy modernization, architectural refactoring and automation, in whatever language or domain the system calls for. Much of that code is now written by an LLM, so the other half of my work is the governance around it. I build automated checks that hold the architecture in place, keep complexity controlled and dependencies minimal, and context architectures that give a model structured project context as the system grows.
 
-<table>
-<tr>
-<td width="50%">
+I have been self-taught since 2012. I started in graphic design and moved through hardware, systems and software development to research on how to work with models.
 
-I believe in architectural minimalism with deterministic reliability - every line of code must earn its place through measurable value, not feature-rich design patterns.
+## Work
 
-I build systems that work predictably in production, not demonstrations of architectural sophistication. My approach is surgical: target the exact problem with minimal code, reuse existing components rather than building new ones, and resist feature bloat by consistently asking whether each addition truly serves the core purpose.
+- **[Bane's Lab](https://banes-lab.com)** · System Architect. My own practice, a software and AI consultancy for the governance, design, development and transformation of software systems.
+- **[Kinsugi.ai](https://kinsugi.ai)** · Co-Founder. Platform architecture, ontology and knowledge engineering, and agent governance.
+- **[Beasr](https://beasr.world)** · Technical Lead. A relocation platform that brings the decisions and purchases of a home move into one place.
 
-I primarily focus on effective ways to collaborate with AI:
-[Disciplined AI Software Development Methodology](https://github.com/Varietyz/Disciplined-AI-Software-Development)
+## Projects
 
-*Working for [Beasr](https://beasr.world/)*
+### [Disciplined Methodology](https://github.com/Varietyz/Disciplined-AI-Software-Development)
 
-</td>
-<td width="50%">
+A method for building software with an LLM that writes most of the code. Its rules are held by automated checks instead of reminders, the project's state lives in files instead of chat history, and a claim about the code counts only once the developer or the model has read the file. It runs through six chapters: Start, Plan, Build, Verify, Collaborate and Ship. [banes-lab.com](https://banes-lab.com) serves every page as HTML, Markdown and JSON, so a model can fetch the chapter it needs while you work.
+
+### [Pattern Abstract Grammar (PAG)](https://banes-lab.com/pag)
+
+A structured format for writing instructions to LLMs, defined by a formal grammar that is grounded in a reasoning ontology and published with a guide and a set of templates. I use it for agents, planning templates and validation gates, the parts of the work that have to run the same way every time.
+
+## Focus
+
+- Governed platform architecture
+- Knowledge ontologies and reasoning systems
+- AI agent governance
+- Polyglot quality infrastructure
+- Full-stack SaaS engineering
+- End-to-end DevOps
+- Application security and offensive testing
+- Documentation as code
+- Toolchain automation
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 </div>
 
-</td>
-</tr>
-</table>
-
-## 🎓 Certifications
+## Certifications
 
 <div align="center">
 <table>
@@ -55,57 +80,7 @@ I primarily focus on effective ways to collaborate with AI:
 </table>
 </div>
 
----
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varietyz&theme=tokyonight" />
-</div>
-
----
-
-## 🔧 Tech Stack
-
-<div align="center">
-
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-### Systems & Infrastructure
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-![SSL](https://img.shields.io/badge/SSL-721817?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-326ce5?style=for-the-badge&logo=docker&logoColor=white)
-
-### Creative
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=black)
-
-### Specializations
-**AI & Machine Learning** • **Performance Optimization** • **Security Validation** • **System Architecture** • **Technical Writing**
-
-</div>
-
----
+## Activity
 
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Varietyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -113,37 +88,20 @@ I primarily focus on effective ways to collaborate with AI:
 </div>
 <br clear="both" />
 
----
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varietyz&theme=tokyonight&hide_border=true" />
-</div>
-
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varietyz&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
----
-
-<div>
-  <img align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varietyz&theme=tokyonight" />
-  <img align="right" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varietyz&theme=tokyonight" />
-</div>
-<br clear="both" />
-
----
-
-## 🤝 Connect with Me
+## Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varietyz)
+[![Website](https://img.shields.io/badge/banes--lab.com-222222?style=for-the-badge&logo=nginx&logoColor=white)](https://banes-lab.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jay@banes-lab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-baleine)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/406828985696387081)
-</div>
 
----
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
