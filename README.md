@@ -44,12 +44,12 @@ A structured format for writing instructions to LLMs, defined by a formal gramma
 
 <div align="center">
 
-[![Methodology](https://img.shields.io/badge/Methodology-cea555?style=for-the-badge)](https://banes-lab.com/disciplined-methodology)
-[![PAG](https://img.shields.io/badge/PAG-cea555?style=for-the-badge)](https://banes-lab.com/pag)
-[![Architecture](https://img.shields.io/badge/Architecture-cea555?style=for-the-badge)](https://banes-lab.com/software-architecture)
-[![Ontology](https://img.shields.io/badge/Ontology-cea555?style=for-the-badge)](https://banes-lab.com/ontology)
-[![Anatomy](https://img.shields.io/badge/Anatomy-cea555?style=for-the-badge)](https://banes-lab.com/anatomy)
-[![FAQ](https://img.shields.io/badge/FAQ-cea555?style=for-the-badge)](https://banes-lab.com/faq)
+[![Methodology](https://img.shields.io/badge/Methodology-3b82f6?style=for-the-badge)](https://banes-lab.com/disciplined-methodology)
+[![PAG](https://img.shields.io/badge/PAG-e28840?style=for-the-badge)](https://banes-lab.com/pag)
+[![Architecture](https://img.shields.io/badge/Architecture-14b8a6?style=for-the-badge)](https://banes-lab.com/software-architecture)
+[![Ontology](https://img.shields.io/badge/Ontology-8b5cf6?style=for-the-badge)](https://banes-lab.com/ontology)
+[![Anatomy](https://img.shields.io/badge/Anatomy-34d399?style=for-the-badge)](https://banes-lab.com/anatomy)
+[![FAQ](https://img.shields.io/badge/FAQ-38bdf8?style=for-the-badge)](https://banes-lab.com/faq)
 
 </div>
 
